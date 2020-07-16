@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: spring-sample
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+server:
+  port: 8081
+  servlet:
+    context-path: /sample-app # why not working ??
+
