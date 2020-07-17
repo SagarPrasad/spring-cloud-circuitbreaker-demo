@@ -13,7 +13,6 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<jersey.version>2.27</jersey.version>
 	</properties>
 
 	<dependencies>

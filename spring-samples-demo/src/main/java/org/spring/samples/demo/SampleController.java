@@ -25,7 +25,7 @@ public class SampleController {
     public Map ping() {
         log.info("Inside the ping method");
         Map<String, String> resp = new HashMap<>();
-        resp.put("status", "ok__");
+        resp.put("status", "ok");
         return resp;
     }
 
