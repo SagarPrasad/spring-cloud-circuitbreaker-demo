@@ -3,6 +3,7 @@
     - Annotation Processor in POM (optional = true)
     - LiveReload - Chrome extension for real time changes
     - Devtools (https://www.vojtechruzicka.com/spring-boot-devtools/)
+    - adding travis in pipeline
 
 
 >
