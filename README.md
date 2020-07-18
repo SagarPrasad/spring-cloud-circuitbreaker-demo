@@ -1,3 +1,5 @@
+![](https://travis-ci.org/SagarPrasad/spring-cloud-circuitbreaker-demo.svg?branch=master)
+
 # About
 
 This repo contains a collection of apps that demonstrate how to using Spring Cloud CircuitBreaker
